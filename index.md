@@ -12,7 +12,9 @@ sitemap:
 ![image](https://user-images.githubusercontent.com/125934691/236084128-4e3613d1-9b5a-46bc-9dfc-3a17e2465d48.png)
 
 
-Las empresas de electricidad son las organizaciones que se encargan del suministro de energía eléctrica, es decir, atienden al sector eléctrico, para ello buscan fuentes de generación eléctricas amigables con el medio ambiente, abastecen de electricidad proyectos de red, e incluso brindan asesoramiento para optimizar el rendimiento y ahorro energético.  [email@address.com]¿
+Las empresas de electricidad son las organizaciones que se encargan del suministro de energía eléctrica, es decir, atienden al sector eléctrico, para ello buscan fuentes de generación eléctricas amigables con el medio ambiente, abastecen de electricidad proyectos de red, e incluso brindan asesoramiento para optimizar el rendimiento y ahorro energético. 
+![image](https://user-images.githubusercontent.com/125934691/236084375-ec7baf4a-5272-441e-96f1-4663c1e15b3a.png)
+
 
 Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
 
