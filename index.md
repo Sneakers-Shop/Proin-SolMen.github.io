@@ -3,7 +3,7 @@ layout: page
 full_logo: true
 title: 
 subtitle: 
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+description: Servicio de Instalación y Mantenimiento Eléctrico, Diseño de Instalaciones y Desarrollo de Proyec.
 sitemap:
   priority: 1.0
 ---
