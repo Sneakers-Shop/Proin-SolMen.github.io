@@ -16,7 +16,7 @@ Las empresas de electricidad son las organizaciones que se encargan del suminist
 ![image](https://user-images.githubusercontent.com/125934691/236084375-ec7baf4a-5272-441e-96f1-4663c1e15b3a.png)
 
 
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+CONTACTO [Pudhina Fresh](https://www.facebook.com/PROINSOLMEN/).
 
 <br>
 <br>
